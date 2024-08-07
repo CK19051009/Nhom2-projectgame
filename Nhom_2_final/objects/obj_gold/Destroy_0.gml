@@ -1,0 +1,1 @@
+global.coin += irandom_range(10,50)
